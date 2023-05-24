@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Local Banks</string>
+    <string name="welcome">Welcome to My Local Banks App!</string>
+    <string name="list">This app showcases a list of all the local banks in my area.</string>
+    <string name="help">(Hold down the logo for the bank\'s website link and contacts)</string>
+    <string name="dbs_bank">DBS Bank</string>
+    <string name="ocbc_bank">OCBC Bank</string>
+    <string name="uob_bank">UOB Bank</string>
+</resources>
